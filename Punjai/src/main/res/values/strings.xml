@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Punjai</string>
+    <string name="contact_to_punjai">Contact to PunJai</string>
+    <string name="address">Address</string>
+    <string name="Location_address">999/9 Floor.3 Pathumwan District Bangkok 10330</string>
+    <string name="our_location_on_googlemap">Our location on GoogleMap</string>
+    <string name="telephone">Telephone</string>
+    <string name="tel_number">089-293-1938</string>
+    <string name="e_mail">E-mail</string>
+    <string name="email_name">info@punjai.com</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="language">Language</string>
+    <string name="title_activity_ourplace">Map</string>
+    <string name="Punjai_info">Punjai is a crowdsourcing platform that users can donate for events. This application is a channel for gathering foundations that need help and support by raising funds from people who need to support various activities and society. This application contains an information and donation sharing channel of all foundations which associate with Punjai. Donors can donate their money directly to the foundation so donors can make sure that the foundation receives their money. All of this can lead to the benefits of the application.</string>
+</resources>
